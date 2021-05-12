@@ -1,4 +1,4 @@
-# Websote for dub healers
+# Website for dub healers
 
 ## Available Scripts
 
