@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dubhealers/website/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dubhealers/website/static/js/main.4a8ddae4.chunk.js",
+    "main.js.map": "/dubhealers/website/static/js/main.4a8ddae4.chunk.js.map",
+    "runtime-main.js": "/dubhealers/website/static/js/runtime-main.f791ce9d.js",
+    "runtime-main.js.map": "/dubhealers/website/static/js/runtime-main.f791ce9d.js.map",
+    "static/js/2.4b5c48d1.chunk.js": "/dubhealers/website/static/js/2.4b5c48d1.chunk.js",
+    "static/js/2.4b5c48d1.chunk.js.map": "/dubhealers/website/static/js/2.4b5c48d1.chunk.js.map",
+    "static/js/3.7786ad27.chunk.js": "/dubhealers/website/static/js/3.7786ad27.chunk.js",
+    "static/js/3.7786ad27.chunk.js.map": "/dubhealers/website/static/js/3.7786ad27.chunk.js.map",
+    "index.html": "/dubhealers/website/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dubhealers/website/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4b5c48d1.chunk.js.LICENSE.txt": "/dubhealers/website/static/js/2.4b5c48d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f791ce9d.js",
+    "static/js/2.4b5c48d1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4a8ddae4.chunk.js"
+  ]
+}
