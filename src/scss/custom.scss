@@ -1,0 +1,38 @@
+$primary: #784421ff;
+$secondary: #ff7f2aff;
+$success: #44aa00ff;
+$warning: #ffd42aff;
+$danger: #ff0000ff;
+$dark: #3c2310ff;
+$light: #fff6d5ff;
+
+$body-bg: $light;
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+@import "~bootstrap/scss/bootstrap";
+
+@each $name, $color in $theme-colors {
+  .logo-#{$name} g.svg-logo {
+    fill: $color;
+  }
+  .logo-text-#{$name} g.svg-text {
+    fill: $color;
+  }
+}
+
+@import "~bootstrap/scss/bootstrap";
+
