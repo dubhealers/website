@@ -1,12 +1,12 @@
-$primary: #784421ff;
-$secondary: #ff7f2aff;
 $success: #44aa00ff;
 $warning: #ffd42aff;
 $danger: #ff0000ff;
 $dark: #3c2310ff;
 $light: #fff6d5ff;
+$primary: #784421ff;
+$secondary: lighten($dark, 25%);
 
-$body-bg: $light;
+//$body-bg: $secondary;
 
 
 body {
@@ -36,3 +36,25 @@ code {
 
 @import "~bootstrap/scss/bootstrap";
 
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: inherit;
+}
+
+a > svg {
+  opacity: 30%;
+}
+
+a:hover > svg {
+  opacity: 100%;
+}
+
+.activeLink > svg {
+  color: $danger;
+  opacity: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
