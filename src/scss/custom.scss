@@ -58,3 +58,13 @@ a:hover > svg {
 ul {
   list-style-type: none;
 }
+
+.ReactCollapse--collapse {
+  transition: height 400ms;
+}
+
+h1 {
+  font-weight: bold;
+  color: $dark;
+  font-size: calc(1rem + 1vw)
+}

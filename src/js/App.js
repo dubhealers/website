@@ -88,7 +88,7 @@ function App() {
 
             {/*content*/}
             <div className={"row bg-light border border-dark rounded m-2"}>
-                <div className={"col"}>
+                <div className={"col mx-md-5 my-2"}>
                     <Switch>
                         <Route exact path={"/about"}>
                             <About/>
