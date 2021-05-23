@@ -96,19 +96,19 @@ function App() {
                         <Route path={"/about"}>
                             <About/>
                         </Route>
-                        <Route exact path={"/website/music"}>
+                        <Route exact path={"/music"}>
                             <Music/>
                         </Route>
-                        <Route exact path={"/website/members"}>
+                        <Route exact path={"/members"}>
                             <Members/>
                         </Route>
-                        <Route exact path={"/website/some"}>
+                        <Route exact path={"/some"}>
                             <SoMe/>
                         </Route>
-                        <Route exact path={"/website/presspack"}>
+                        <Route exact path={"/presspack"}>
                             <PressPack/>
                         </Route>
-                        <Route exact path={"/website/contact"}>
+                        <Route exact path={"/contact"}>
                             <Contact/>
                         </Route>
                     </Switch>
