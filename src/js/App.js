@@ -90,22 +90,25 @@ function App() {
             <div className={"row bg-light border border-dark rounded m-2"}>
                 <div className={"col mx-md-5 my-2"}>
                     <Switch>
-                        <Route exact path={"/about"}>
+                        <Route path={"/website"}>
                             <About/>
                         </Route>
-                        <Route exact path={"/music"}>
+                        <Route path={"/about"}>
+                            <About/>
+                        </Route>
+                        <Route exact path={"/website/music"}>
                             <Music/>
                         </Route>
-                        <Route exact path={"/members"}>
+                        <Route exact path={"/website/members"}>
                             <Members/>
                         </Route>
-                        <Route exact path={"/some"}>
+                        <Route exact path={"/website/some"}>
                             <SoMe/>
                         </Route>
-                        <Route exact path={"/presspack"}>
+                        <Route exact path={"/website/presspack"}>
                             <PressPack/>
                         </Route>
-                        <Route exact path={"/contact"}>
+                        <Route exact path={"/website/contact"}>
                             <Contact/>
                         </Route>
                     </Switch>
