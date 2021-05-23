@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.7c797f55.chunk.css",
+    "main.css": "/website/static/css/main.00e35399.chunk.css",
     "main.js": "/website/static/js/main.76abef5d.chunk.js",
     "main.js.map": "/website/static/js/main.76abef5d.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.4d480c1c.js",
@@ -10,7 +10,7 @@
     "static/js/3.436090a9.chunk.js": "/website/static/js/3.436090a9.chunk.js",
     "static/js/3.436090a9.chunk.js.map": "/website/static/js/3.436090a9.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/css/main.7c797f55.chunk.css.map": "/website/static/css/main.7c797f55.chunk.css.map",
+    "static/css/main.00e35399.chunk.css.map": "/website/static/css/main.00e35399.chunk.css.map",
     "static/js/2.d3fb1697.chunk.js.LICENSE.txt": "/website/static/js/2.d3fb1697.chunk.js.LICENSE.txt",
     "static/media/doktorlond.72a9db88.jpg": "/website/static/media/doktorlond.72a9db88.jpg",
     "static/media/dubhealers-text.bc7ee64b.svg": "/website/static/media/dubhealers-text.bc7ee64b.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d480c1c.js",
     "static/js/2.d3fb1697.chunk.js",
-    "static/css/main.7c797f55.chunk.css",
+    "static/css/main.00e35399.chunk.css",
     "static/js/main.76abef5d.chunk.js"
   ]
 }
