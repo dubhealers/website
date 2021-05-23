@@ -43,16 +43,16 @@ a {
 }
 
 a > svg {
-  opacity: 30%;
+  opacity: 0.3;
 }
 
 a:hover > svg {
-  opacity: 100%;
+  opacity: 1;
 }
 
 .activeLink > svg {
   color: $danger;
-  opacity: 100%;
+  opacity: 1;
 }
 
 ul {

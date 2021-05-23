@@ -78,7 +78,7 @@ function App() {
             <div className={"row bg-light border border-dark rounded m-2 d-lg-none"}>
                 <div className={"col"}>
                     <div className={"text-center"}>
-                        <Logo className={"logo-danger logo-text-dark w-100"}/>
+                        <Logo className={"logo-danger logo-text-dark w-100 p-3"} style={{height: "auto"}}/>
                     </div>
                 </div>
             </div>
