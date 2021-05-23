@@ -1,6 +1,6 @@
 import Member from "./Member";
 import doktor from "../../img/doktorlond.jpg";
-import soren from "../../img/søren.jpg";
+import soren from "../../img/soren.jpg";
 import jesper from "../../img/jesper.jpg";
 
 export default function Members() {
