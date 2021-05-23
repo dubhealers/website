@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.9d41b508.chunk.css",
-    "main.js": "/website/static/js/main.78ee845a.chunk.js",
-    "main.js.map": "/website/static/js/main.78ee845a.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.a4e376e3.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.a4e376e3.js.map",
-    "static/js/2.e7646e47.chunk.js": "/website/static/js/2.e7646e47.chunk.js",
-    "static/js/2.e7646e47.chunk.js.map": "/website/static/js/2.e7646e47.chunk.js.map",
-    "static/js/3.fb5a797e.chunk.js": "/website/static/js/3.fb5a797e.chunk.js",
-    "static/js/3.fb5a797e.chunk.js.map": "/website/static/js/3.fb5a797e.chunk.js.map",
+    "main.css": "/website/static/css/main.7c797f55.chunk.css",
+    "main.js": "/website/static/js/main.4e48a5b1.chunk.js",
+    "main.js.map": "/website/static/js/main.4e48a5b1.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.4d480c1c.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.4d480c1c.js.map",
+    "static/js/2.d3fb1697.chunk.js": "/website/static/js/2.d3fb1697.chunk.js",
+    "static/js/2.d3fb1697.chunk.js.map": "/website/static/js/2.d3fb1697.chunk.js.map",
+    "static/js/3.436090a9.chunk.js": "/website/static/js/3.436090a9.chunk.js",
+    "static/js/3.436090a9.chunk.js.map": "/website/static/js/3.436090a9.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/css/main.9d41b508.chunk.css.map": "/website/static/css/main.9d41b508.chunk.css.map",
-    "static/js/2.e7646e47.chunk.js.LICENSE.txt": "/website/static/js/2.e7646e47.chunk.js.LICENSE.txt",
-    "static/media/dubhealers-text.30016c28.svg": "/website/static/media/dubhealers-text.30016c28.svg"
+    "static/css/main.7c797f55.chunk.css.map": "/website/static/css/main.7c797f55.chunk.css.map",
+    "static/js/2.d3fb1697.chunk.js.LICENSE.txt": "/website/static/js/2.d3fb1697.chunk.js.LICENSE.txt",
+    "static/media/doktorlond.72a9db88.jpg": "/website/static/media/doktorlond.72a9db88.jpg",
+    "static/media/dubhealers-text.bc7ee64b.svg": "/website/static/media/dubhealers-text.bc7ee64b.svg",
+    "static/media/jesper.61e2e69d.jpg": "/website/static/media/jesper.61e2e69d.jpg",
+    "static/media/søren.cca4b50a.jpg": "/website/static/media/søren.cca4b50a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4e376e3.js",
-    "static/js/2.e7646e47.chunk.js",
-    "static/css/main.9d41b508.chunk.css",
-    "static/js/main.78ee845a.chunk.js"
+    "static/js/runtime-main.4d480c1c.js",
+    "static/js/2.d3fb1697.chunk.js",
+    "static/css/main.7c797f55.chunk.css",
+    "static/js/main.4e48a5b1.chunk.js"
   ]
 }
